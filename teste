@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 type="stream" tvg-id="Combate HD" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate HD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/combate_ac3478d6_ef795abf57d3472e1b90b4d4e6653507abe3b3cb.m3u8
+
+#EXTINF:-1 type="stream" tvg-id="Record HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record HD
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/record_3554dce5_c360b9aa20d89f0b02ce80a44957d60e4d4c9e6a/410p/chunklist.m3u8
